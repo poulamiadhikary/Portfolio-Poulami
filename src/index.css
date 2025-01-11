@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Junge&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ranga:wght@400;700&family=Revalia&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'DavineGerian';
+  src: url('./fonts/DavineGerianDemo-6RLnD.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sinosans';
+  src: url('./fonts/SinosansRegular-aYxZ5.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CsReplika';
+  src: url('./fonts/CsReplikaRegularDemo-E4Eo9.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CsRobert';
+  src: url('./fonts/CsRobertMonoRegularDemo-9M97B.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Cs';
+  src: url('./fonts/CsRominaRegularDemo-nAZ3Y.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, .sidebar, .content{
+  scrollbar-width: none; 
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
