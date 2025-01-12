@@ -56,7 +56,7 @@ function LandingPage() {
                     <div className='w-full h-20 z-40 bg-white flex justify-center items-center fixed top-0 backdrop-blur-lg bg-white/50'></div>
 
                     <div className='w-full flex motion-preset-shrink motion-duration-1500 justify-center items-center relative overflow-hidden h-auto px-5 mt-24 rounded-lg'>
-                        <p className='absolute text-5xl sm:text-7xl lg:text-9xl top-12 sm:top-20 md:top-28 font-Sinosans'>Poulami Adhikary</p>
+                        <p className='absolute text-4xl sm:text-7xl lg:text-9xl top-12 sm:top-20 md:top-28 font-Sinosans'>Poulami Adhikary</p>
                         <img src={image} className=' w-1/2 h-1/2 lg:h-1/3 lg:w-1/3 object-cover saturate-0' />
                         <div className='absolute bottom-0 w-full h-[30%] bg-gradient-to-t from-white to-transparent'></div>
                     </div>
