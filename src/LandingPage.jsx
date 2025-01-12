@@ -41,9 +41,9 @@ function LandingPage() {
 
             <div className={`h-screen w-full z-50 bg-blue-500 text-white flex justify-center transition-opacity duration-500 ease-in-out items-center ${isCounting === true ? "opacity-100" : "opacity-0 hidden"}`}>
                 <div className='flex justify-center items-center w-[70%] md:w-[40%] py-5 rounded-full border-2 border-white'>
-                    <p className='text-3xl font-Sinosans'>Loading ... </p>
+                    <p className='text-2xl font-Sinosans'>Loading ... </p>
                     <CountUp
-                        className='text-3xl font-Sinosans'
+                        className='text-2xl font-Sinosans'
                         delay={0.5}
                         start={0}
                         end={100}
