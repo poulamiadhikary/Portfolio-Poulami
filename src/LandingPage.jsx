@@ -169,7 +169,7 @@ function LandingPage() {
                             </div>
 
                             <div className='w-full flex flex-col justify-center items-start mt-7'>
-                                <div className='h-auto w-full flex justify-start items-center gap-3 font-semibold font-Montserrat text-sm md:text-lg lg:text-2xl'><SiPolestar className='motion-preset-spin motion-duration-2000' />TechFrost Hackathon</div>
+                                <div className='h-auto w-full flex justify-start items-center gap-3 font-semibold font-Montserrat text-sm md:text-lg lg:text-2xl'><SiPolestar className='motion-preset-spin motion-duration-2000' />FrostHack Hackathon</div>
                                 <p className='text-[8px] md:text-[10px] lg:text-[15px]'>Collaborated with a team to innovative blockchain-based project, leveraging cutting-edge technology to deliver a secure and efficient software. </p>
                             </div>
 
